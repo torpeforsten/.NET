@@ -1,0 +1,12 @@
+C:\temp\.NET\task-02-torpeforsten-1\src\ShapesLibrary\bin\Debug\net8.0\ShapesLibrary.deps.json
+C:\temp\.NET\task-02-torpeforsten-1\src\ShapesLibrary\bin\Debug\net8.0\ShapesLibrary.dll
+C:\temp\.NET\task-02-torpeforsten-1\src\ShapesLibrary\bin\Debug\net8.0\ShapesLibrary.pdb
+C:\temp\.NET\task-02-torpeforsten-1\src\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\.NET\task-02-torpeforsten-1\src\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.AssemblyInfoInputs.cache
+C:\temp\.NET\task-02-torpeforsten-1\src\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.AssemblyInfo.cs
+C:\temp\.NET\task-02-torpeforsten-1\src\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\temp\.NET\task-02-torpeforsten-1\src\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.sourcelink.json
+C:\temp\.NET\task-02-torpeforsten-1\src\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.dll
+C:\temp\.NET\task-02-torpeforsten-1\src\ShapesLibrary\obj\Debug\net8.0\refint\ShapesLibrary.dll
+C:\temp\.NET\task-02-torpeforsten-1\src\ShapesLibrary\obj\Debug\net8.0\ShapesLibrary.pdb
+C:\temp\.NET\task-02-torpeforsten-1\src\ShapesLibrary\obj\Debug\net8.0\ref\ShapesLibrary.dll

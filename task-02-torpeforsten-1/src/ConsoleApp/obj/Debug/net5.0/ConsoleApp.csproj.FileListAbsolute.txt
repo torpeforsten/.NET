@@ -1,0 +1,16 @@
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.sourcelink.json
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\obj\Debug\net5.0\refint\ConsoleApp.dll
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\temp\.NET\task-02-torpeforsten-1\src\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
